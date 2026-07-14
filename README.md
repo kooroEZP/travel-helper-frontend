@@ -30,6 +30,19 @@ AI Travel Helper 的 React 单页应用前端，提供自然语言与结构化�
 
 ---
 
+## 运行效果
+### 主页
+![主页](docs/images/home.png)
+
+### 行程规划
+![主页](docs/images/ScreenShot_2026-07-14_152747_352.png)
+![主页](docs/images/ScreenShot_2026-07-14_152806_733.png)
+![主页](docs/images/ScreenShot_2026-07-14_152821_348.png)
+
+### 用户偏好
+![主页](docs/images/ScreenShot_2026-07-14_153044_887.png)
+
+
 ## 快速开始
 
 ### 环境要求
